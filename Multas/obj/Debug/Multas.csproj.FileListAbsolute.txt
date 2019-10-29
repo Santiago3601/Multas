@@ -1,0 +1,9 @@
+C:\Users\Santiago\source\repos\Multas\Multas\bin\Debug\Multas.exe.config
+C:\Users\Santiago\source\repos\Multas\Multas\bin\Debug\Multas.exe
+C:\Users\Santiago\source\repos\Multas\Multas\bin\Debug\Multas.pdb
+C:\Users\Santiago\source\repos\Multas\Multas\obj\Debug\Multas.csprojAssemblyReference.cache
+C:\Users\Santiago\source\repos\Multas\Multas\obj\Debug\Multas.Form1.resources
+C:\Users\Santiago\source\repos\Multas\Multas\obj\Debug\Multas.Properties.Resources.resources
+C:\Users\Santiago\source\repos\Multas\Multas\obj\Debug\Multas.csproj.GenerateResource.cache
+C:\Users\Santiago\source\repos\Multas\Multas\obj\Debug\Multas.exe
+C:\Users\Santiago\source\repos\Multas\Multas\obj\Debug\Multas.pdb
